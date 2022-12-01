@@ -1,0 +1,32 @@
+[
+    {
+        "Username": "ayedenue@gmail.com",
+        "Age": 25,
+        "Gender": "F",
+        "genre": "Comedy"
+    },
+    {
+        "Username": "david@gmail.com",
+        "Age": 39,
+        "Gender": "M",
+        "genre": "Animation"
+    },
+    {
+        "Username": "rachel@gmail.com",
+        "Age": 53,
+        "Gender": "F",
+        "genre": "Comedy"
+    },
+    {
+        "Username": "rachel@gmail.com",
+        "Age": 53,
+        "Gender": "F",
+        "genre": "Animation"
+    },
+    {
+        "Username": "david@gmail.com",
+        "Age": 39,
+        "Gender": "M",
+        "genre": "Action"
+    }
+]

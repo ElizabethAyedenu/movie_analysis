@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Elizabeth",
+        "Age": 25,
+        "Gender": "F",
+        "Email": "ayedenue@gmail.com",
+        "Password": "lizzie"
+    },
+    {
+        "Name": "David",
+        "Age": 39,
+        "Gender": "M",
+        "Email": "david@gmail.com",
+        "Password": "davies"
+    },
+    {
+        "Name": "rachel",
+        "Age": 53,
+        "Gender": "F",
+        "Email": "rachel@gmail.com",
+        "Password": "rachie"
+    },
+    {
+        "Name": "abigail",
+        "Age": 52,
+        "Gender": "F",
+        "Email": "abigail@gmail.com",
+        "Password": "abie"
+    },
+    {
+        "Name": "ayodeji",
+        "Age": 19,
+        "Gender": "M",
+        "Email": "ayodeji@gmail.com",
+        "Password": "dejjiii"
+    }
+]
