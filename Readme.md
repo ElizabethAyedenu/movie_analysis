@@ -1,0 +1,1 @@
+this project shows the record of the genre mostly selected by each customers 
